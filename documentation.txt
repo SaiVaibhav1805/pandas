@@ -1,0 +1,7 @@
+To read a CSV file in pandas:
+pd.read_csv('dataset.csv')
+
+
+to convert an array into DataFrame
+tabluar=pd.DataFrame(arra_4d,columns=['Col1','Col2'],index=['Row1','Row2'])
+
